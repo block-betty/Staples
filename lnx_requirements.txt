@@ -1,5 +1,5 @@
 colorama==0.3.7
-email==4.0.2
+
 logging==0.4.9.6
 pexpect==4.2.1
 pycrypto==2.6.1
